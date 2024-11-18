@@ -2,7 +2,7 @@
 
 # It's me Ankit Bohara </>
 
-### MERN Stack Developer |From Kathmandu, Nepal
+### I'm a Software Engineer |From Kathmandu, Nepal
 
 Welcome to my GitHub profile! I'm a passionate MERN stack developer from Kathmandu, Nepal. I enjoy building web applications that solve real-world problems and continuously learning new technologies to enhance my skills.
 
