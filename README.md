@@ -1,8 +1,8 @@
 # 👋 Hi there,
 
-# It's me Ankit Bohara </>
+# Myself Ankit Bohara </>
 
-### I'm a Software Engineer |From Kathmandu, Nepal
+### A Software Engineer |From Kathmandu, Nepal
 
 Welcome to my GitHub profile! I'm a passionate Full stack Engineer from Kathmandu, Nepal. I enjoy building web applications that solve real-world problems and continuously learning new technologies to enhance my skills.
 
@@ -21,11 +21,11 @@ Welcome to my GitHub profile! I'm a passionate Full stack Engineer from Kathmand
 ## 🛠️ Projects
 Check out some of my projects below:
 1. **Texas Conference System**: A system designed to manage conferences efficiently.
-2. **E-commerce Platform**: An online store developed with the MERN stack for seamless shopping experiences.
+2. **E-commerce Platform**: An online store developed with the Xampp server and Mysql Database.
 3. **Book Reservation System**: A simple program to manage book reservations using JavaScript and HTML.
 
 ## 🚀 What I'm currently working on
-- Developing dynamic web applications using the MERN stack.
+- Developing dynamic web applications using the .Net core MVC Framework.
 - Experimenting with new animations and UI designs to create engaging user interfaces.
 - Expanding my portfolio with more advanced projects.
 
@@ -44,9 +44,9 @@ Check out some of my projects below:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitbohara539" alt="ankitbohara539" /></a> </p>
 
-- 🔭 I’m currently working on **Conference System**
+- 🔭 I’m currently working on **AfterSchoolNepal**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **Python Project**
 
@@ -54,13 +54,12 @@ Check out some of my projects below:
 
 - 👨‍💻 All of my projects are available at [ankitbohara.com.np](ankitbohara.com.np)
 
-- 💬 Ask me about **JS, Python**
+- 💬 Ask me about **Web Dev**
 
 - 📫 How to reach me **ankitbohara68@gmail.com**
 
 - 📄 Know about my experiences [0.10 year](0.10 year)
 
-- ⚡ Fun fact **I Love <Coding/>**
 
 
 ##
