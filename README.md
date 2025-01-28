@@ -21,8 +21,7 @@ Welcome to my GitHub profile! I'm a passionate Full stack Engineer from Kathmand
 ## 🛠️ Projects
 Check out some of my projects below:
 1. **Texas Conference System**: A system designed to manage conferences efficiently.
-2. **E-commerce Platform**: An online store developed with the Xampp server and Mysql Database.
-3. **Book Reservation System**: A simple program to manage book reservations using JavaScript and HTML.
+2. **Book Reservation System**: A simple program to manage book reservations using JavaScript and HTML.
 
 ## 🚀 What I'm currently working on
 - Developing dynamic web applications using the .Net core MVC Framework.
