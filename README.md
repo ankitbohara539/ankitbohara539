@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Engineer from Kathmand
 
 ## 🔧 Tech Stack
 
-<div align="left" style="background-color: lightgray; padding: 10px;">
+<div align="left" style="background-color: lightgray; padding: 10px; display: flex; gap: 15px;">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Engineer from Kathmand
 
 ## 📫 Find me on
 
-<div align="left">
+<div align="left" style="display: flex; gap: 15px;">
   <a href="https://www.linkedin.com/in/ankit-bohara-2a5833250/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin" width="40" height="40"/>
   </a>
@@ -57,8 +57,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Engineer from Kathmand
   <a href="https://www.instagram.com" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="instagram" width="40" height="40"/>
   </a>
-  <a href="https://medium.com" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354043/medium-icon.svg" alt="medium" width="40" height="40"/>
+  <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/157836/facebook.svg" alt="facebook" width="40" height="40"/>
   </a>
 </div>
 
