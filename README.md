@@ -1,15 +1,14 @@
 # 👋 Hi there,
 
-# I'm Ankit Bohara </>
+## I'm Ankit Bohara </>
 
 ### From Kathmandu, Nepal
 
-Welcome to my GitHub profile! I'm a passionate Full stack Engineer from Kathmandu, Nepal. I enjoy building web applications that solve real-world problems and continuously learning new technologies to enhance my skills.
+Welcome to my GitHub profile! I'm a passionate Full Stack Engineer from Kathmandu, Nepal. I enjoy building web applications that solve real-world problems and continuously learning new technologies to enhance my skills.
 
-###
+---
 
-
-## 🔧 Tech Stack 
+## 🔧 Tech Stack
 
 <div align="left" style="background-color: lightgray; padding: 10px;">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -44,10 +43,12 @@ Welcome to my GitHub profile! I'm a passionate Full stack Engineer from Kathmand
   </a>
 </div>
 
+---
+
 ## 📫 Find me on
 
 <div align="left">
-  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/ankit-bohara-2a5833250/)" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/ankit-bohara-2a5833250/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin" width="40" height="40"/>
   </a>
   <a href="https://discord.com" target="_blank" rel="noreferrer">
@@ -61,7 +62,9 @@ Welcome to my GitHub profile! I'm a passionate Full stack Engineer from Kathmand
   </a>
 </div>
 
-##
+---
+
+## 🚀 About Me
 
 - 🔭 I’m currently working on **MyPortfolio**
 
@@ -71,18 +74,17 @@ Welcome to my GitHub profile! I'm a passionate Full stack Engineer from Kathmand
 
 - 🤝 I’m looking for help with **AI/ML**
 
-- 👨‍💻 All of my projects are available at [ankitbohara.com.np](ankitbohara.com.np)
+- 👨‍💻 All of my projects are available at [ankitbohara.com.np](https://ankitbohara.com.np)
 
 - 💬 Ask me about **Projects**
 
 - 📫 How to reach me **ankitbohara68@gmail.com**
 
-- 📄 Know about my experiences [1 year](1 year)
+- 📄 Know about my experiences: **1 year**
 
+---
 
-
-##
 Feel free to explore my repositories and collaborate on exciting projects. I'm always open to learning and contributing to the open-source community!
 
-
+🎯 **Let's build something amazing together!**
 
