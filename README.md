@@ -1,6 +1,6 @@
 ## 👋 Hi there,
 
-## I'm Ankit Bohara </>
+## I'm Ankit Bohara 
 
 ### From Kathmandu, Nepal
 
@@ -51,10 +51,10 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Engineer from Kathmand
   <a href="https://www.linkedin.com/in/ankit-bohara-2a5833250/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin" width="50" height="50"/>
   </a>
-  <a href="https://discord.com" target="_blank" rel="noreferrer">
+  <a href="https://discord.com/ankit02324" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="50" height="50"/>
   </a>
-   <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+   <a href="https://www.facebook.com/profile.php?id=100070835915775" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook" width="45" height="45"/>
 </a>
 
