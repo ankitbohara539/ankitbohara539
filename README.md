@@ -57,9 +57,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Engineer from Kathmand
   <a href="https://www.instagram.com" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="instagram" width="40" height="40"/>
   </a>
-  <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/157836/facebook.svg" alt="facebook" width="40" height="40"/>
-  </a>
+ 
 </div>
 
 ---
