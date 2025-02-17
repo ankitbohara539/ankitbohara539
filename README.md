@@ -47,12 +47,15 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Engineer from Kathmand
 
 ## 📫 Find me on
 
-<div align="left" style="display: flex; gap: 15px;">
+<div align="left" style="display: flex; gap: 40px;">
   <a href="https://www.linkedin.com/in/ankit-bohara-2a5833250/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin" width="40" height="40"/>
   </a>
   <a href="https://discord.com" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="40" height="40"/>
+  </a>
+   <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/157836/facebook.svg" alt="facebook" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="instagram" width="40" height="40"/>
