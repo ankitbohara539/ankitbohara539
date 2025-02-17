@@ -1,4 +1,4 @@
-# 👋 Hi there,
+[# 👋 Hi there,
 
 ## I'm Ankit Bohara </>
 
@@ -55,8 +55,9 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Engineer from Kathmand
     <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="40" height="40"/>
   </a>
    <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/157836/facebook.svg" alt="facebook" width="40" height="40"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook" width="40" height="40"/>
+</a>
+
   <a href="https://www.instagram.com" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="instagram" width="40" height="40"/>
   </a>
@@ -89,3 +90,4 @@ Feel free to explore my repositories and collaborate on exciting projects. I'm a
 
 🎯 **Let's build something amazing together!**
 
+](url)
