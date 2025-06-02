@@ -4,7 +4,7 @@
 
 ### From Kathmandu, Nepal
 
-Welcome to my GitHub profile! I'm a Web Developer from Kathmandu, Nepal. I enjoy building web applications that solve real-world problems and continuously learning new technologies to enhance my skills.
+Welcome to my GitHub profile! I'm a Web Developer and i enjoy building web applications that solve real-world problems and continuously learning new technologies to enhance my skills.
 
 ---
 
