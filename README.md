@@ -4,7 +4,7 @@
 
 ### From Kathmandu, Nepal
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Engineer from Kathmandu, Nepal. I enjoy building web applications that solve real-world problems and continuously learning new technologies to enhance my skills.
+Welcome to my GitHub profile! I'm a passionate Web Developer from Kathmandu, Nepal. I enjoy building web applications that solve real-world problems and continuously learning new technologies to enhance my skills.
 
 ---
 
@@ -68,13 +68,11 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Engineer from Kathmand
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **MyPortfolio**
+- 🔭 I’m currently working on **QuickBite**
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **NextJS**
 
-- 👯 I’m looking to collaborate on **Django REST Framework**
-
-- 🤝 I’m looking for help with **AI/ML**
+- 👯 I’m looking to collaborate on **.Net Framework**
 
 - 👨‍💻 All of my projects are available at [ankitbohara.com.np](https://ankitbohara.com.np)
 
