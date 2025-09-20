@@ -35,9 +35,8 @@ Welcome to my GitHub profile!
 
 </div>
 
----
 
-- 📫 How to reach me **ankitbohara68@gmail.com**
+📫 Reach me **ankitbohara68@gmail.com**
 
 Feel free to collaborate on your projects. I'm always open to learning and contributing !
 
