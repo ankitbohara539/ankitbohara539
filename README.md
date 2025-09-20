@@ -37,46 +37,9 @@ Welcome to my GitHub profile!
 
 ---
 
-## 📫 Find me on
-
-<div align="center" style="display: flex;">
-  <a href="https://www.linkedin.com/in/ankit-bohara-2a5833250/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin" width="50" height="50"/>
-  </a>
-  <a href="https://discord.com/ankit02324" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="50" height="50"/>
-  </a>
-   <a href="https://www.facebook.com/profile.php?id=100070835915775" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook" width="45" height="45"/>
-</a>
-
-  <a href="https://www.instagram.com" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="instagram" width="45" height="45"/>
-  </a>
- 
-</div>
-
----
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on **QuickBite**
-
-- 🌱 I’m currently learning **NextJS**
-
-- 👯 I’m looking to collaborate on **.Net Framework**
-
-- 👨‍💻 All of my projects are available at [ankitbohara.com.np](https://ankitbohara.com.np)
-
-- 💬 Ask me about **Projects**
-
 - 📫 How to reach me **ankitbohara68@gmail.com**
 
-- 📄 Know about my experiences: **1 year**
-
----
-
-Feel free to explore my repositories and collaborate on exciting projects. I'm always open to learning and contributing to the open-source community!
+Feel free to collaborate on your projects. I'm always open to learning and contributing !
 
 🎯 **Let's build something amazing together!**
 
