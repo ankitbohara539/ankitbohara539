@@ -1,7 +1,7 @@
-## Hi, I'm Ankit Bohara 
-### From Kathmandu, Nepal
 Welcome to my GitHub profile!
----
+
+## Hi, I'm Ankit Bohara from Kathmandu, Nepal
+
 ## 🔧 Tech Stack
 
 <div align="center" style="background-color: lightgray; padding: 20px; display: flex; gap: 45px;">
