@@ -23,7 +23,7 @@
 <h3 align="left">🌐 Connect with me:</h3>
 
 <div align="left">
-  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ankit-bohara-2a5833250/)" target="_blank">
+  <a href="https://www.linkedin.com/in/ankit-bohara-2a5833250" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="https://discord.gg/yourdiscord" target="_blank">
