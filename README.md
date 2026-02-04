@@ -1,4 +1,4 @@
-<h2 align="left">🌟 Can code with:</h2>
+<h2 align="left">Can code with:</h2>
 
 ###
 
